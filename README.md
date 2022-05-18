@@ -5,7 +5,7 @@ VOCdevkit_segmentation Dataset URL:https://mega.nz/file/Aot2TB4B#jP3LE6DhzCkvDmu
 
 
 
-<p align="center">Mobilenet_V2</font></p>
+<p align="center">MobilenetV2</font></p>
 
 
 <div align="center">
