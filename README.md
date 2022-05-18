@@ -5,26 +5,26 @@ VOCdevkit_segmentation Dataset URL:https://mega.nz/file/Aot2TB4B#jP3LE6DhzCkvDmu
 
 
 
-<p align="center">Mobilenet</font></p>
+<p align="center">Mobilenet_V2</font></p>
 
 
 <div align="center">
-<img src="https://github.com/wade0125/DeepLabV3-plus-Tensorflow2.X/blob/main/miou_out/mIoU.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/mIoU_mobilenetv2.png">
 </div>
 
 
 <div align="center">
-<img src="https://github.com/wade0125/DeepLabV3-plus-Tensorflow2.X/blob/main/miou_out/mPA.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/mPA_mobilenetv2.png">
 </div>
 
 <div align="center">
-<img src="https://github.com/wade0125/DeepLabV3-plus-Tensorflow2.X/blob/main/miou_out/Recall.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/Recall_mobilenetv2.png">
 </div>
 
 
 
 <div align="center">
-<img src="https://github.com/wade0125/DeepLabV3-plus-Tensorflow2.X/blob/main/miou_out/Precision.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/Precision_mobilenetv2.png">
 </div>
 
 
@@ -33,20 +33,20 @@ VOCdevkit_segmentation Dataset URL:https://mega.nz/file/Aot2TB4B#jP3LE6DhzCkvDmu
 
 
 <div align="center">
-<img src="https://github.com/wade0125/Pspnet-Tensorflow-2.X/blob/main/miou_out/mIoU_resnet.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/mIoU_xception.png">
 </div>
 
 
 <div align="center">
-<img src="https://github.com/wade0125/Pspnet-Tensorflow-2.X/blob/main/miou_out/mPA_resnet.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/mPA_xception.png">
 </div>
 
 <div align="center">
-<img src="https://github.com/wade0125/Pspnet-Tensorflow-2.X/blob/main/miou_out/Recall_resnet.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/Recall_xception.png">
 </div>
 
 
 
 <div align="center">
-<img src="https://github.com/wade0125/Pspnet-Tensorflow-2.X/blob/main/miou_out/Precision_resnet.png">
+<img src="https://github.com/wade0125/DeeplabV3-Plus-Tensorflow2.X/blob/main/miou_out/Precision_xception.png">
 </div>
